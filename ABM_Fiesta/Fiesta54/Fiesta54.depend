@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626819417 source:c:\users\serry\desktop\isft 151\1er año\as - y ed 1\2021\tp_final_cuatri_studio 54\abm_fiesta\fiesta54\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

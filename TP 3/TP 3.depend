@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627054267 source:c:\users\serry\desktop\isft 151\1er año\as - y ed 1\2021\unidad 3\tp 3\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<iomanip>
+	<ctime>
+
